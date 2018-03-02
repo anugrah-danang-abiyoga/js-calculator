@@ -17,7 +17,7 @@ h1 {
 table {
     position: center;
     border-color: red;
-    width: 100%;
+    width: 75%;
 }
 
 td {
@@ -25,6 +25,7 @@ td {
 }
 
 button {
-    width: 100%;
+    width: 75%;
     height: 70px;
+    font-size: 24px;
 }
