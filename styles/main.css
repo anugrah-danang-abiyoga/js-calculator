@@ -13,3 +13,18 @@ body {
 h1 {
     text-align: center;
 }
+
+table {
+    position: center;
+    border-color: red;
+    width: 100%;
+}
+
+td {
+    width: 25%;
+}
+
+button {
+    width: 100%;
+    height: 70px;
+}
