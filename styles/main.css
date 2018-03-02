@@ -17,7 +17,7 @@ h1 {
 table {
     position: center;
     border-color: red;
-    width: 80px;
+    width: 100%;
 }
 
 td {
