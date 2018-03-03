@@ -1,14 +1,14 @@
 document.addEventListener("DOMContentLoaded", function() {
 
     var buttons = document.getElementsByTagName('button');
-  
+
     for(var i=0; i < buttons.length; i++) {
-  
-      buttons[i].addEventListener("click", buttonClicked);
+        
+        buttons[i].addEventListener("click", buttonClicked);
     }
-  });
-  //following function is used when  the button event is clicked ;
-  var operation = '';
+});
+
+var operation = '';
   
   function buttonClicked(evt) {
   
