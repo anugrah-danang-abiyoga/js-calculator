@@ -1,16 +1,16 @@
 #calculator {
     text-align: center;
     background: blueviolet;
-    width: 11%;
+    width: 100%;
    }
   
    table {
-     width: 30%;
-     border:4px;
+     width: 50%;
+     border: 25px;
    }
   
    td {
-     column-span: 2px;
+     column-span: 25px;
      text-align: center;
    }
   
