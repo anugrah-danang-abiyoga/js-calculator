@@ -1,19 +1,16 @@
-#calculator {
+h1 {
     text-align: center;
-    background: blueviolet;
+}
+
+table {
     width: 100%;
-   }
-  
-   table {
-     width: 50%;
-     border: 25px;
-   }
-  
-   td {
-     column-span: 25px;
-     text-align: center;
-   }
-  
-   input[type=text] {
-     text-align: right;
-   }
+}
+
+td {
+    width: 25%;
+}
+
+input {
+    height: 120px;
+    text-align: right;
+}
